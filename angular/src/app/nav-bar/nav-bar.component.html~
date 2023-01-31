@@ -1,0 +1,5 @@
+<app-nav-bar></app-nav-bar>
+<p>nav-bar works!</p>
+<p routerLink="">home</p>
+<p routerLink="product">product</p>
+<router-outlet></router-outlet>

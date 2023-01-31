@@ -1,0 +1,3 @@
+<p>products works!</p>
+<app-product-displayer [products]="products"></app-product-displayer>
+
